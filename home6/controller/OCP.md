@@ -1,0 +1,1 @@
+Класс StudentController расширяет функции UserController,но не модифицирует его.
